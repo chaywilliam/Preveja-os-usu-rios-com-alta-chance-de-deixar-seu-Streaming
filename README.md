@@ -11,8 +11,8 @@ O arquivo streaming_data.csv contém dados sobre usuários de um serviço de str
 ### 1.Análise Exploratória dos Dados (Data Understanding): Carrega os dados, exibe estatísticas descritivas, informações sobre os dados e verifica valores ausentes.
 ### 2.Tratamento dos Dados (Data Preparation): Limpa e pré-processa os dados, tratando valores ausentes, removendo linhas com valores nulos e convertendo variáveis categóricas para numéricas.
 Modelagem:
-### *Regressão Logística: Cria e treina um modelo de Regressão Logística para prever a rotatividade de clientes.
-### *Random Forest: Realiza o tuning de hiperparâmetros para um modelo Random Forest usando GridSearchCV.
+### * Regressão Logística: Cria e treina um modelo de Regressão Logística para prever a rotatividade de clientes.
+### * Random Forest: Realiza o tuning de hiperparâmetros para um modelo Random Forest usando GridSearchCV.
 
 ## Estrutura do Repositório
 .
